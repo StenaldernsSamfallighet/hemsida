@@ -1,7 +1,7 @@
 baseURL: https://www.stenaldern.com
 languageCode: sv-SE
 title: Stenålderns samfällighet
-theme: PaperMod
+theme: Anake
 taxonomies:
   category: category
   tag: tag
