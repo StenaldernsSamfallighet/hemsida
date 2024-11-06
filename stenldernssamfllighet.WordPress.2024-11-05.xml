@@ -7322,11 +7322,6 @@ Nuvarande styrelse består av:
 
 &nbsp;
 
-<a href="&lt;?php echo bloginfo('rss2_url'); ?&gt;">
-<img style="vertical-align: middle;" src="http://www.stenaldern.com//wp-content/themes/twentyeleven-child/images/rss.png" alt="Prenumerera" />
-RSS Feed
-</a>
-
 <a href="http://www.stenaldern.com/wp-content/uploads/2011/12/rss.png"><img class="alignright size-full wp-image-226" title="RSS" src="http://www.stenaldern.com/wp-content/uploads/2011/12/rss.png" alt="Prenumerera" width="48" height="48" /></a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>205</wp:post_id>
