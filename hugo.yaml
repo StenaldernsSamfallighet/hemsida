@@ -5,6 +5,7 @@ theme: PaperMod
 taxonomies:
   category: category
   tag: tag
+
 params:
   description: ""
   defaultTheme: auto
@@ -36,5 +37,47 @@ outputFormats:
   RSS:
     mediaType: application/rss+xml
     baseName: feed
+
 menu:
-  main: []
+  main:
+    - name: Nyinflyttad Samfälligheten
+
+    - name: Samfälligheten
+    - name: Vad ingår
+      parent: Samfälligheten
+    - name: Avgift
+      parent: Samfälligheten
+    - name: Gårdsarbete
+      parent: Samfälligheten
+    - name: Stadgar
+      parent: Samfälligheten
+    - name: Grannsamverkan
+      parent: Samfälligheten
+    - name: Karta
+      parent: Samfälligheten
+
+    - name: Styrelsen
+    - name: Styrelse & stämma
+      parent: Styrelsen
+    - name: Styrelsen 2022-2023
+      parent: Styrelsen
+    - name: Vill du gå med i styrelsen?
+      parent: Styrelsen
+
+    - name: Övrigt
+    - name: Dokument
+      parent: Övrigt
+    - name: Protokoll
+      parent: Övrigt
+    - name: Länkar
+      parent: Övrigt
+    - name: Sophantering
+      parent: Övrigt
+    - name: Snöröjning
+      parent: Övrigt
+    - name: Parkering
+      parent: Övrigt
+    - name: Områdets historia
+      parent: Övrigt
+
+    - name: Kontakt
