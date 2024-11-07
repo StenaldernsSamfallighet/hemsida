@@ -5,29 +5,34 @@ theme: PaperMod
 taxonomies:
   category: category
   tag: tag
+menu:
+  main:
+    - name: Info
+      pageRef: /info
+    - name: Nyheter
+      pageRef: /nyheter
+    - name: Övrigt
+      pageRef: /övrigt
+    - name: Kontakt
+      pageRef: /kontakt
 
 params:
-  description: ""
+  homeInfoParams:
+    Title: Välkommen till Stenålderns samfällighet!
+    Content: 'Stenålderns samfällighet utgörs av kvarteren Stenåldern och Fornforskaren ([karta](/info/karta "Karta")).
+Samfälligheten ansvarar för gemensamma anläggningar som grönytor, lekplatser, soprum, parkeringsytor, de 59 gemensamhetsgaragen, infarts- och gångvägar och annat som vi som bor i området använder gemensamt. Föreningen avsätter medel till en fond för att säkerställa underhåll och förnyelse av gemensamhetsanläggningarna. Inbetalningar till underhållsfonderna görs två gånger per år, i maj och november.
+'
   defaultTheme: auto
-  disableThemeToggle: true
-  showShareButtons: true
-  showReadingTime: true
+  showShareButtons: false
+  showReadingTime: false
   showToc: false
-  showBreadCrumbs: true
-  showCodeCopyButtons: true
-  comments: true
+  showBreadCrumbs: false
+  showCodeCopyButtons: false
+  comments: false
   hideFooter: true
   assets:
     favicon: /favicon.ico
     disableHLJS: true
-markup:
-  highlight:
-    codeFences: true
-    guessSyntax: true
-    style: monokai
-  goldmark:
-    renderer:
-      unsafe: true
 outputs:
   home:
     - HTML
@@ -37,47 +42,3 @@ outputFormats:
   RSS:
     mediaType: application/rss+xml
     baseName: feed
-
-menu:
-  main:
-    - name: Nyinflyttad Samfälligheten
-
-    - name: Samfälligheten
-    - name: Vad ingår
-      parent: Samfälligheten
-    - name: Avgift
-      parent: Samfälligheten
-    - name: Gårdsarbete
-      parent: Samfälligheten
-    - name: Stadgar
-      parent: Samfälligheten
-    - name: Grannsamverkan
-      parent: Samfälligheten
-    - name: Karta
-      parent: Samfälligheten
-
-    - name: Styrelsen
-    - name: Styrelse & stämma
-      parent: Styrelsen
-    - name: Styrelsen 2022-2023
-      parent: Styrelsen
-    - name: Vill du gå med i styrelsen?
-      parent: Styrelsen
-
-    - name: Övrigt
-    - name: Dokument
-      parent: Övrigt
-    - name: Protokoll
-      parent: Övrigt
-    - name: Länkar
-      parent: Övrigt
-    - name: Sophantering
-      parent: Övrigt
-    - name: Snöröjning
-      parent: Övrigt
-    - name: Parkering
-      parent: Övrigt
-    - name: Områdets historia
-      parent: Övrigt
-
-    - name: Kontakt

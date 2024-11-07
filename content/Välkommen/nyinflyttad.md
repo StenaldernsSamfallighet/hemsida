@@ -4,7 +4,6 @@ date: "2015-03-09T18:13:19+00:00"
 guid: http://localhost/stenaldern/?page_id=484
 title: Nyinflyttad
 url: /ovrigt/nyinflyttad/
-menus: main
 ---
 **Välkommen till Stenålderns samfällighet**!
 
