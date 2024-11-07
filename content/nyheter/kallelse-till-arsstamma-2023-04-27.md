@@ -15,4 +15,4 @@ url: /kallelse-till-arsstamma-2023-04-27/
 **Plats**: Gunnesboskolans matsal
 
 Handlingar till stämman finns här:  
-[Kompletta handlingar till Årsstämma 2023]( /wp-content/uploads/2023/04/Arsstamma_2023_ink_bilagor.pdf)
+[Kompletta handlingar till Årsstämma 2023](/wp-content/uploads/2023/04/Arsstamma_2023_ink_bilagor.pdf)
