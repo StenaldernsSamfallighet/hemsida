@@ -7,12 +7,10 @@ taxonomies:
   tag: tag
 menu:
   main:
-    - name: Info
+    - name: Mer om samfälligheten
       pageRef: /info
-    - name: Nyheter
-      pageRef: /nyheter
-    - name: Övrigt
-      pageRef: /övrigt
+    - name: Sök
+      pageRef: /search
     - name: Kontakt
       pageRef: /kontakt
 
@@ -21,6 +19,8 @@ params:
     Title: Välkommen till Stenålderns samfällighet!
     Content: 'Stenålderns samfällighet utgörs av kvarteren Stenåldern och Fornforskaren ([karta](/info/karta "Karta")).
 Samfälligheten ansvarar för gemensamma anläggningar som grönytor, lekplatser, soprum, parkeringsytor, de 59 gemensamhetsgaragen, infarts- och gångvägar och annat som vi som bor i området använder gemensamt. Föreningen avsätter medel till en fond för att säkerställa underhåll och förnyelse av gemensamhetsanläggningarna. Inbetalningar till underhållsfonderna görs två gånger per år, i maj och november.
+
+När du flyttar in till Stenålderns samfällighet så får du gärna besöka någon i styrelsen som kan informera om olika praktiska saker. Du får gärna titta i denna [information till nyinflyttade](/wp-content/uploads/2023/11/Infoskrift-v-2.pdf).
 '
   defaultTheme: auto
   showShareButtons: false

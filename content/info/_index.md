@@ -1,3 +1,3 @@
 ---
-title: Info
+title: Mer om samfälligheten
 ---
