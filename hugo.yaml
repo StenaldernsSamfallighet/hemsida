@@ -7,12 +7,18 @@ taxonomies:
   tag: tag
 menu:
   main:
+    - name: Hem
+      pageRef: /
+      weight: 1
     - name: Om samfälligheten
       pageRef: /info
+      weight: 2
     - name: Sök
       pageRef: /search
+      weight: 3
     - name: Kontakt
       pageRef: /kontakt
+      weight: 4
 
 params:
   socialIcons:
