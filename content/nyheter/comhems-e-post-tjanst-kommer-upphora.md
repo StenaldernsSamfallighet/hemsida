@@ -10,4 +10,4 @@ url: /comhems-e-post-tjanst-kommer-upphora/
 ---
 Vi har fått information från ComHem att deras e-post tjänt kommer upphöra inom kort. Så de av er som har använt er av deras mailadress xx@comhem.se måste nu skaffa en ny adress på annat håll.
 
-Mer information ska gå ut till de som använder detta idag och mer går att läsa [här](https://www.comhem.se/fastighetsagare/stanga-epost)
+Mer information ska gå ut till de som använder detta idag och mer går att läsa [här](http://web.archive.org/web/20210413075311/https://www.comhem.se/fastighetsagare/stanga-epost)

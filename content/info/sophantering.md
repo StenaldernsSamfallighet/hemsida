@@ -15,7 +15,7 @@ Onsdag: Restavfall, Matavfall (varje vecka)
 Torsdag: Pappersförpackningar, Plastförpackningar (varje vecka),
 Tidningar, Metallförpackning (jämn vecka)
 
-Att tänka på. Om sopkärlen är så fulla att locket inte går att stänga får inte de som hämtar soporna hantera kärlen. Vilket innebär att soporna inte töms. För att de ska tömmas måste vi då själva ta hand om de sopor som gör att locket inte går att stänga och sedan betala för en extra tömning. Så se till att platta till alla kartonger innan de slängs och fyll inte på så att locken inte går att stänga. Restavfallär heller inte till för att slänga stora sopsäckar med skräp. Detta har vi [Gunnesbos återvinningscentral](http://www.sysav.se/Privat/Atervinningscentraler/Lund-Gunnesbo-atervinningscentral/ "Återvinningscentralen") till.
+Att tänka på. Om sopkärlen är så fulla att locket inte går att stänga får inte de som hämtar soporna hantera kärlen. Vilket innebär att soporna inte töms. För att de ska tömmas måste vi då själva ta hand om de sopor som gör att locket inte går att stänga och sedan betala för en extra tömning. Så se till att platta till alla kartonger innan de slängs och fyll inte på så att locken inte går att stänga. Restavfallär heller inte till för att slänga stora sopsäckar med skräp. Detta har vi [Gunnesbos återvinningscentral](https://www.sysav.se/privat/atervinningscentraler/lund-gunnesbo/ "Återvinningscentralen") till.
 
 Påsarna för matavfall hämtas på Gunnesbos återvinningscentral.
 

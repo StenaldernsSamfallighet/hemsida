@@ -17,4 +17,5 @@ I bifogad broschyr som är utgiven av polisen, framgår vad man bör tänka på 
 
 Monica Mårtensson
 
-[![ccf20131213_00000](/wp-content/uploads/2016/12/CCF20131213_00000-300x210.jpg)](/wp-content/uploads/2016/12/CCF20131213_00000.jpg)[![ccf20131213_00001](/wp-content/uploads/2016/12/CCF20131213_00001-300x210.jpg)](/wp-content/uploads/2016/12/CCF20131213_00001.jpg)
+![ccf20131213_00000](/wp-content/uploads/2016/12/CCF20131213_00000-300x210.jpg)
+![ccf20131213_00001](/wp-content/uploads/2016/12/CCF20131213_00001-300x210.jpg)

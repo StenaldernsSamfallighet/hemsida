@@ -7,8 +7,6 @@ url: /styrelsen-2-2/arsstamman/
 
 ---
 
-[Lag om förvaltning av samfällighet](http://www.notisum.se/rnp/sls/lag/19731150.HTM "Lag om förvaltning av samfälligheter")
-
 # Föreningsstämma (årsmöte)
 
 Medlemmarnas rätt att delta i utövandet av föreningens angelägenheter sker på föreningsstämman (årsmötet). Årsmötet äger rum i april. Styrelsen kallar till årsmötet senast två veckor innan stämman genomförs. Årsmötet fattar beslut om storleken på avgifterna till underhållsfonderna.

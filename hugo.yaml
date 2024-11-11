@@ -34,7 +34,6 @@ När du flyttar in till Stenålderns samfällighet så får du gärna besöka n�
   comments: false
   hideFooter: true
   assets:
-    favicon: /favicon.ico
     disableHLJS: true
 outputs:
   home:
