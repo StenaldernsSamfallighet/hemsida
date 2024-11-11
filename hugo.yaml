@@ -7,7 +7,7 @@ taxonomies:
   tag: tag
 menu:
   main:
-    - name: Mer om samfälligheten
+    - name: Om samfälligheten
       pageRef: /info
     - name: Sök
       pageRef: /search
