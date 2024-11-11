@@ -15,6 +15,9 @@ menu:
       pageRef: /kontakt
 
 params:
+  socialIcons:
+    - name: "rss"
+      url: "/feed.xml"
   homeInfoParams:
     Title: Välkommen till Stenålderns samfällighet!
     Content: 'Stenålderns samfällighet utgörs av kvarteren Stenåldern och Fornforskaren ([karta](/info/karta "Karta")).
