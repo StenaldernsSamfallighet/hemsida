@@ -19,7 +19,7 @@ Samfälligheten äger i princip allt som inte ingår i de enskilda fastighetern
 - El till garagelängor (delas på 59 husägare)
 - Försäkring
 - Kabel-TV
-- Bredband
+- Bredband ([PDF gruppavtal för bredband](/wp-content/uploads/2015/05/bredband_och_telefoni_comhem.pdf "gruppavtal bredband"))
 - Vinterväghållning
 - Avsättning till underhållsfond
 - Övrigt underhåll t ex färg, växter, sand etc
