@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2023-09-19T19:36:57+00:00"
-guid: http://www.stenaldern.com/?p=1338
 title: Styrelsen vädjar om hjälp!
-url: /styrelsen-vadjar-om-hjalp/
+url: /nyheter/styrelsen-vadjar-om-hjalp/
 
 ---
 I samband med att garagelängornas tak skall åtgärdas, så skall det också monteras på lövavskiljare på alla 24 stuprören på dessa garage.

@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2023-08-03T19:24:44+00:00"
-guid: http://www.stenaldern.com/?p=1318
 title: Kallelse till Informationsmöte och Extrastämma 2023-08-17
-url: /kallelse-till-informationsmote-och-extrastamma-2023-08-17/
+url: /nyheter/kallelse-till-informationsmote-och-extrastamma-2023-08-17/
 
 ---
 **Kallelse till informationsmöte** **om laddpunkter**  

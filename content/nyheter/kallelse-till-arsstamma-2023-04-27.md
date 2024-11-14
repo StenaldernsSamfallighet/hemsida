@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2023-04-13T19:50:56+00:00"
-guid: http://www.stenaldern.com/?p=1305
 title: Kallelse till Årsstämma 2023-04-27
-url: /kallelse-till-arsstamma-2023-04-27/
+url: /nyheter/kallelse-till-arsstamma-2023-04-27/
 
 ---
 **Kallelse till årsstämma 2023-04-27**  

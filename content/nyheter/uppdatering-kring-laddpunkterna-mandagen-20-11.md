@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2023-11-21T21:08:05+00:00"
-guid: https://www.stenaldern.com/?p=1391
 title: Uppdatering kring laddpunkterna (måndagen 20/11)
-url: /uppdatering-kring-laddpunkterna-mandagen-20-11/
+url: /nyheter/uppdatering-kring-laddpunkterna-mandagen-20-11/
 
 ---
 En liten uppdatering om hur det går med laddpunkterna:

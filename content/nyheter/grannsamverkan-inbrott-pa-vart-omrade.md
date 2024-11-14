@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2017-11-05T17:37:29+00:00"
-guid: http://www.stenaldern.com/?p=954
 title: Grannsamverkan - inbrott på vårt område
-url: /grannsamverkan-inbrott-pa-vart-omrade/
+url: /nyheter/grannsamverkan-inbrott-pa-vart-omrade/
 
 ---
 Nu är det högsäsong för bostadsinbrotten. Fredag kväll hade vi inbrott i ett av husen på Stenåldersvägen. Tjuvarna bröt upp ett fönster på framsidan och lade beslag på värdeföremål och tog dessutom nycklar till huset och en bil.

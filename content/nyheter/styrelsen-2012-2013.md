@@ -2,7 +2,7 @@
 author: stenaldern.com
 date: "2011-12-08T20:25:52+00:00"
 title: Styrelsen 2012-2013
-url: /styrelsen/
+url: /nyheter/styrelsen/
 
 ---
 Förvaltningen av samfälligheten sköts av styrelsen som utses av stämman.

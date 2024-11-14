@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2015-12-10T15:20:19+00:00"
-guid: http://www.stenaldern.com/?p=788
 title: Inbrott och äggkastning
-url: /inbrott-och-aggkastning/
+url: /nyheter/nyheter/inbrott-och-aggkastning/
 
 ---
 Vi har haft två inbrott i garagelängorna de senaste månaderna. Det är oklart om det förvunnit något av värde i något av fallen.

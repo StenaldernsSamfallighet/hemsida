@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2024-03-03T18:01:59+00:00"
-guid: https://www.stenaldern.com/?p=1412
 title: Taktvätt
-url: /taktvatt/
+url: /nyheter/taktvatt/
 
 ---
 Enligt senaste information från RenaTak Syd så börjar taktvätten av garagelängorna på onsdag den 6 mars. Då börjar de alltså på gård 4.

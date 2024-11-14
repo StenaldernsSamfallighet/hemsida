@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2015-11-22T15:35:37+00:00"
-guid: http://www.stenaldern.com/?p=783
 title: Samfällighetsavgiften
-url: /samfallighetsavgift/
+url: /nyheter/samfallighetsavgift/
 
 ---
 Nu är det dags att betala samfällighetsavgiften!

@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2018-04-10T19:24:12+00:00"
-guid: http://www.stenaldern.com/?p=1000
 title: Årsmöte 2018
-url: /arsmote-2018/
+url: /nyheter/arsmote-2018/
 
 ---
 Det är dags för årsmöte i samfälligheten!

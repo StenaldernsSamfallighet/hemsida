@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2023-12-22T18:03:05+00:00"
-guid: https://www.stenaldern.com/?p=1394
 title: Infobrev Stenåldernssamfällighetsförening
-url: /infobrev-stenaldernssamfallighetsforening/
+url: /nyheter/infobrev-stenaldernssamfallighetsforening/
 
 ---
   

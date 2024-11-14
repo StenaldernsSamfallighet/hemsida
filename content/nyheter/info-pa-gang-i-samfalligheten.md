@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2024-05-27T17:07:48+00:00"
-guid: https://www.stenaldern.com/?p=1444
 title: 'Info: På gång i samfälligheten'
-url: /info-pa-gang-i-samfalligheten/
+url: /nyheter/info-pa-gang-i-samfalligheten/
 
 ---
 **Målning garagens tak**

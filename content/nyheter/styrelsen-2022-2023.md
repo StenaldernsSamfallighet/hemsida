@@ -2,7 +2,7 @@
 author: info@stenaldern.com
 date: "2011-12-08T20:25:52+00:00"
 title: Styrelsen 2022-2023
-url: /styrelsen-2-2/styrelsen-2/
+url: /nyheter/styrelsen-2-2/styrelsen-2/
 
 ---
 Förvaltningen av samfälligheten sköts av styrelsen som utses av stämman.

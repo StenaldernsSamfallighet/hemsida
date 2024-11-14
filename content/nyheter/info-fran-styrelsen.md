@@ -3,11 +3,10 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2022-11-13T20:07:30+00:00"
-guid: http://www.stenaldern.com/?p=1262
 tag:
   - styrelsen-informerar
 title: Info från styrelsen
-url: /info-fran-styrelsen/
+url: /nyheter/info-fran-styrelsen/
 
 ---
 Nu är det dags att byta ljuskällor i alla stolpar på området, det kommer att göras den 21-22 november. Eftersom att vi räknar med fortsatt höga elpriser så har vi valt att sätta in LED-lampor istället för att sätta i de kvicksilverlampor som finns sedan tidigare. Även om det tillkommer en kostnad för att köpa in LED-lamporna så innebär den lägre energianvändningen att vi sparar pengar på att sätta LED-lampor. Samtidigt kommer vi även att felsöka de två stolpar på gård 2 och 3 som inte fungerar.

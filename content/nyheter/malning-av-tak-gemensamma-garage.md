@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2024-06-02T07:21:52+00:00"
-guid: https://www.stenaldern.com/?p=1454
 title: Målning av tak gemensamma garage
-url: /malning-av-tak-gemensamma-garage/
+url: /nyheter/malning-av-tak-gemensamma-garage/
 
 ---
 Preliminär tidpunkt för kommande takmålning.  

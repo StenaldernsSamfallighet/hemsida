@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2016-12-19T15:55:21+00:00"
-guid: http://www.stenaldern.com/?p=869
 title: Inbrott i vårt område
-url: /inbrott-i-vart-omrade/
+url: /nyheter/inbrott-i-vart-omrade/
 
 ---
 **Grannsamverkan**

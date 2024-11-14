@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2024-04-10T20:10:46+00:00"
-guid: https://www.stenaldern.com/?p=1422
 title: Årsstämma Stenålderns samfällighet, 2024-04-25
-url: /arsstamma-stenalderns-samfallighet-2024-04-25/
+url: /nyheter/arsstamma-stenalderns-samfallighet-2024-04-25/
 
 ---
 **Kallelse till årsstämma 2024-04-25**  

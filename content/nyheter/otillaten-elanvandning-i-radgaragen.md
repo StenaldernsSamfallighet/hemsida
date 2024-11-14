@@ -3,9 +3,8 @@ author: stenaldern.com
 category:
   - styrelsen-informerar
 date: "2022-11-25T12:18:36+00:00"
-guid: http://www.stenaldern.com/?p=1270
 title: Otillåten elanvändning i radgaragen
-url: /otillaten-elanvandning-i-radgaragen/
+url: /nyheter/otillaten-elanvandning-i-radgaragen/
 
 ---
 Hej!  
