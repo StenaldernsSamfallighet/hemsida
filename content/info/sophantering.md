@@ -1,7 +1,6 @@
 ---
 author: info@stenaldern.com
 date: "2015-01-16T19:24:00+00:00"
-guid: http://localhost/stenaldern/?page_id=437
 title: Sophantering
 url: /ovrigt/sophantering/
 

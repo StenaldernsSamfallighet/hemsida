@@ -1,7 +1,6 @@
 ---
 author: info@stenaldern.com
 date: "2015-01-16T21:00:52+00:00"
-guid: http://localhost/stenaldern/?page_id=466
 title: Parkering
 url: /ovrigt/bilfritt/
 

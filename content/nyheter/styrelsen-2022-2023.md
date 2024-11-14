@@ -1,7 +1,6 @@
 ---
 author: info@stenaldern.com
 date: "2011-12-08T20:25:52+00:00"
-guid: http://www.stenaldern.com/?page_id=64
 title: Styrelsen 2022-2023
 url: /styrelsen-2-2/styrelsen-2/
 

@@ -1,7 +1,6 @@
 ---
 author: info@stenaldern.com
 date: "2015-01-16T19:33:09+00:00"
-guid: http://localhost/stenaldern/?page_id=444
 title: Snöröjning
 url: /ovrigt/snorojning/
 

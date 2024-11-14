@@ -1,7 +1,6 @@
 ---
 author: stenaldern.com
 date: "2014-02-23T19:56:38+00:00"
-guid: http://www.stenaldern.com/?page_id=333
 title: Grannsamverkan
 url: /startsida/grannsamverkan/
 

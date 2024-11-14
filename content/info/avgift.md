@@ -1,14 +1,13 @@
 ---
 author: stenaldern.com
 date: "2011-12-07T20:39:15+00:00"
-guid: http://www.stenaldern.com/?page_id=13
 title: Vad ingår i avgiften
 url: /startsida/avgift/
 
 ---
 Styrelsen lägger varje år till stämman fram ett förslag till budget och samfällighets-avgift. Stämman som beslutar om budgeten och avgiftens storlek. Betalning sker två gånger per år, i slutet av maj respektive november. Vid ägarbyte är det, om inget annat överenskommits mellan säljare och köpare, den som äger fastigheten på förfallodagen som skall betala avgiften.
 
-Samfälligheten ägs gemensamt av fastighetsägarna i kvarteren Stenåldern och Fornforskaren. Eftersom det finns sammanlagt 84 hus inom området äger varje fastighet i princip 1/84 av samfällighetens tillgångar, vilka också ingår i taxeringsvärdet på varje enskild fastighet. Se [karta](/?page_id=134 "Karta").
+Samfälligheten ägs gemensamt av fastighetsägarna i kvarteren Stenåldern och Fornforskaren. Eftersom det finns sammanlagt 84 hus inom området äger varje fastighet i princip 1/84 av samfällighetens tillgångar, vilka också ingår i taxeringsvärdet på varje enskild fastighet. Se [karta](/karta "Karta").
 
 Samfälligheten äger i princip allt som inte ingår i de enskilda fastigheterna, dock med vissa inskränkningar som framgår av texten.
 

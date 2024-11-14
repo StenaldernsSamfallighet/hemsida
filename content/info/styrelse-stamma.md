@@ -1,7 +1,6 @@
 ---
 author: stenaldern.com
 date: "2011-12-08T18:33:29+00:00"
-guid: http://www.stenaldern.com/?page_id=34
 title: Styrelse & stämma
 url: /styrelsen-2-2/arsstamman/
 
@@ -15,13 +14,13 @@ Medlemmarnas rätt att delta i utövandet av föreningens angelägenheter sker p
 
 Styrelsen väljs av årsmötet. Styrelsen verkställer årsmötets beslut samt förvaltar föreningens gemensamma tillgångar. Styrelsen ansvarar också för att underhålls- och förnyelseplanen upp-dateras.
 
-Har du synpunkter, idéer eller frågor är du alltid välkomna att [kontakta](/?page_id=8 "Kontakt") styrelsen
+Har du synpunkter, idéer eller frågor är du alltid välkomna att [kontakta](/kontakt "Kontakt") styrelsen
 
-Är du intresserad av att sitta i styrelsen så [anmäl](/?page_id=8 "Kontakt") gärna ditt intresse. Styrelsen träffas cirka en gång i månaden och då fördelas ev. uppgifter som finns ut till de olika styrelsemedlemmarna.
+Är du intresserad av att sitta i styrelsen så [anmäl](/kontakt "Kontakt") gärna ditt intresse. Styrelsen träffas cirka en gång i månaden och då fördelas ev. uppgifter som finns ut till de olika styrelsemedlemmarna.
 
 # Protokoll
 
-Efter varje styrelsemöte och efter årsstämman så skickas information om att protokollen finns tillgängliga på hemsidan via mail. Har du inte anmält din e-mail address till dessa utskick går det bra att [kontakta](/?page_id=8 "Kontakt") styrelsen och få sin e-mail address tillagd.
+Efter varje styrelsemöte och efter årsstämman så skickas information om att protokollen finns tillgängliga på hemsidan via mail. Har du inte anmält din e-mail address till dessa utskick går det bra att [kontakta](/kontakt "Kontakt") styrelsen och få sin e-mail address tillagd.
 
 ## 2024
 

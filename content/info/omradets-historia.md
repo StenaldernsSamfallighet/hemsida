@@ -1,9 +1,8 @@
 ---
 author: stenaldern.com
 date: "2015-05-22T20:31:56+00:00"
-guid: http://www.stenaldern.com/?page_id=607
 title: Områdets historia
-url: /ovrigt/omradets-historia/
+url: /omradets-historia
 
 ---
 # Vår plats på jorden

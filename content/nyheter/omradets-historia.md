@@ -8,4 +8,4 @@ title: Områdets historia
 url: /omradets-historia/
 
 ---
-Nils Mandahl har bidragit med fakta, kuriosa och bilder från vårt område. Detta kan ni läsa om [här](/?page_id=607) eller så finner ni det under rubriken Övrigt. Trevlig läsning och tack Nils för bidraget!
+Nils Mandahl har bidragit med fakta, kuriosa och bilder från vårt område. Detta kan ni läsa om [här](/omradets-historia) eller så finner ni det under rubriken Övrigt. Trevlig läsning och tack Nils för bidraget!

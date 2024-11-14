@@ -1,7 +1,6 @@
 ---
 author: stenaldern.com
 date: "2011-12-08T18:31:54+00:00"
-guid: http://www.stenaldern.com/?page_id=31
 title: Gårdsarbete
 url: /gardsarbete/
 
