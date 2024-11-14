@@ -2,7 +2,7 @@
 author: info@stenaldern.com
 date: "2015-01-16T21:00:52+00:00"
 title: Parkering
-url: /ovrigt/bilfritt/
+url: /parkering/
 
 ---
 Parkering ska ske på de markerade parkeringsplatser som finns på varje gård. På vissa ytor är det uppmålat att parkering är förbjuden. Detta för att bilar som parkeras där förhindra att våra sopor töms.

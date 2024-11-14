@@ -2,7 +2,7 @@
 author: stenaldern.com
 date: "2014-02-23T19:56:38+00:00"
 title: Grannsamverkan
-url: /startsida/grannsamverkan/
+url: /grannsamverkan/
 
 ---
 Grannsamverkan är en effektiv metod för att öka tryggheten och minska brottsligheten i ett bostadsområde. Genom samarbete med lokal polis samt att grannar håller uppsikt över varandras bostäder och gemensamma utrymmen är det möjligt att förhindra vardagsbrottslighet såsom skadegörelse eller  inbrott i hus och garage.

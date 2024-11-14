@@ -2,7 +2,7 @@
 author: stenaldern.com
 date: "2011-12-08T18:33:29+00:00"
 title: Styrelse & stämma
-url: /styrelsen-2-2/arsstamman/
+url: /styrelse/
 
 ---
 

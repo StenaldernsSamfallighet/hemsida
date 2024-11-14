@@ -2,7 +2,7 @@
 author: stenaldern.com
 date: "2015-05-22T20:31:56+00:00"
 title: Områdets historia
-url: /omradets-historia
+url: /historia
 
 ---
 # Vår plats på jorden

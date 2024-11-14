@@ -2,7 +2,7 @@
 author: info@stenaldern.com
 date: "2015-01-16T19:24:00+00:00"
 title: Sophantering
-url: /ovrigt/sophantering/
+url: /sophantering/
 
 ---
 Varje gård i samfälligheten har ett eget soprum. Här finns behållare för restavfall, kartong, papper, plast, metall, färgat/ofärgat glas, matavfall, batteri samt ljuskällor. Hämtningen av avfallet sköts av Lunds renhållningsverk.
