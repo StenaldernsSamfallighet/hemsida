@@ -10,31 +10,23 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
+    - name: Checkout main
+      run: git checkout main
     - name: Run check of pwd
       run: pwd
     - name: Run check of what's in pwd
       run: ls
-    - name: Run a one-line script
-      run: echo """
----
-title: ${{ github.event.inputs.title }}
-date: $(date --iso-8601='seconds')
----
-${{ github.event.inputs.text }}
-""" > content/nyheter/${{ github.event.inputs.title }}
-    - name: switching from HTTPS to SSH
-      run: git remote set-url origin ${{ secrets.ssh }}
-    - name: check for changes
-      run: git status
-    - name: stage changed files
-      run: git add .
-    - name: commit changed files
-      run: git commit -m "${{ github.event.inputs.title }}"
-    - name: fetch from master
-      run: git fetch origin master
-    - name: push code to master
-      run: git push origin HEAD:master
+    - name: Create new post
+      run: bash ./.github/workflows/new.sh ${{ github.event.inputs.title }} ${{ github.event.inputs.text }}
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Nytt Inlägg
