@@ -1,4 +1,7 @@
-# Skapa en file
+# Lägg till på hemsidan
+
+Hemsidan skapas från text filerna som finns i det här projektet.
+
 ## Nyhet
 
 Gå till https://github.com/StenaldernsSamfallighet/hemsida/tree/main/content/nyheter och tryck på "Add File" för att skapa en ny fil. Varje fil blir automagiskt en nyhet. 
@@ -7,9 +10,8 @@ Du kan utgå från en gammal nyhet eller den här expempel nyhetern.
 
 ```md
 ---
-date: "2024-02-18T20:26:29+00:00"
+date: "2024-02-18"
 title: Kallelse årsmöte
-url: /nyheter/arsmote-2024/
 ---
 Det är dags för årsmöte i samfälligheten!
 * **Datum:** Onsdagen den 27 april 2024
@@ -39,10 +41,6 @@ När du är klar, namnge filen (enda regeln är att filnamnet ska sluta med `.md
 
 * Välj `Commit directly to the main branch` om du vill att det ska gå ut direkt.
 * Välj `Create a new branch for this commit and start a pull request` om du vill se en förhandsgranskning och/eller ha någon annan att titta på det innan det går ut på hemsidan.
-
-Om du väljer att skapa en pull request kommer du skapa en sådan här sida https://github.com/StenaldernsSamfallighet/hemsida/pull/1
-
-
 
 
 
