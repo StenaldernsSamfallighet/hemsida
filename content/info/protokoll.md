@@ -8,13 +8,13 @@ Efter varje styrelsemöte och efter årsstämman så skickas information om att
 
 ## 2025
 [Styrelsemöte 2025-02-27](/uploads/protokoll/2025-02-27.pdf)  
-[Styrelsmöte 2025-01-23](/wp-content/uploads/protokoll/2025-01-23.pdf)  
+[Styrelsemöte 2025-01-23](/uploads/protokoll/2025-01-23.pdf)  
 
 ## 2024
-[Styrelsmöte 2024-10-24](/wp-content/uploads/protokoll/2024-10-24.pdf)  
-[Styrelsmöte 2024-11-21](/wp-content/uploads/protokoll/2024-11-21.pdf)  
-[Styrelsmöte 2024-12-17](/wp-content/uploads/protokoll/2024-12-17.pdf)  
-[Styrelsmöte 20240926](/wp-content/uploads/2024/10/Protokoll-styrelsemote-Stenalderns-samfallighet-20240926.pdf)  
+[Styrelsemöte 2024-12-17](/uploads/protokoll/2024-12-17.pdf)  
+[Styrelsemöte 2024-11-21](/uploads/protokoll/2024-11-21.pdf)  
+[Styrelsemöte 2024-10-24](/uploads/protokoll/2024-10-24.pdf)  
+[Styrelsemöte 20240926](/wp-content/uploads/2024/10/Protokoll-styrelsemote-Stenalderns-samfallighet-20240926.pdf)  
 [Styrelsemöte 240619](/wp-content/uploads/2024/10/Protokoll-styrelsemote-Stenalderns-samfallighet-20240619.pdf)  
 [Styrelsemöte 240514](/wp-content/uploads/2024/06/Protokoll-styrelsemote-Stenalderns-samfallighet-20240514.pdf)  
 [Protokoll konstituerande styrelsemöte 20240514](/wp-content/uploads/2024/06/Protokoll-konstituerande-styrelsemote-Stenalderns-samfallighet-20240514.pdf)  
