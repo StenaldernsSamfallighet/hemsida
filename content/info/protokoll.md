@@ -7,6 +7,8 @@ title: Protokoll
 Efter varje styrelsemöte och efter årsstämman så skickas information om att protokollen finns tillgängliga på hemsidan via mail. Har du inte anmält din e-mail address till dessa utskick går det bra att [kontakta](/kontakt "Kontakt") styrelsen och få sin e-mail address tillagd.
 
 ## 2025
+[Årsstämma 2025](/uploads/protokoll/stamma-2025.pdf)  
+
 [Styrelsemöte 2025-02-27](/uploads/protokoll/2025-02-27.pdf)  
 [Styrelsemöte 2025-01-23](/uploads/protokoll/2025-01-23.pdf)  
 
