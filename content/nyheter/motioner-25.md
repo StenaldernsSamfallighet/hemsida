@@ -1,5 +1,5 @@
 ---
-date: "2026-12-30"
+date: "2025-12-30"
 title: Motioner
 ---
 
