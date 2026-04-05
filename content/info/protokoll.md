@@ -9,6 +9,13 @@ Efter varje styrelsemöte och efter årsstämman så skickas information om att
 ## 2025
 [Årsstämma 2025](/uploads/protokoll/stamma-2025.pdf)  
 
+[Styrelsemöte 2025-12-16](/uploads/protokoll/2025-12-16.pdf)  
+[Styrelsemöte 2025-09-16](/uploads/protokoll/2025-09-16.pdf)  
+[Styrelsemöte 2025-08-21](/uploads/protokoll/2025-08-21.pdf)  
+[Styrelsemöte 2025-06-16](/uploads/protokoll/2025-06-16.pdf)  
+[Styrelsemöte 2025-05-22](/uploads/protokoll/2025-05-22.pdf)  
+[Styrelsemöte 2025-04-09](/uploads/protokoll/2025-04-09.pdf)  
+[Styrelsemöte 2025-03-13](/uploads/protokoll/2025-03-13.pdf)  
 [Styrelsemöte 2025-02-27](/uploads/protokoll/2025-02-27.pdf)  
 [Styrelsemöte 2025-01-23](/uploads/protokoll/2025-01-23.pdf)  
 
