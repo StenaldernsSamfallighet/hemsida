@@ -4,7 +4,7 @@ backend:
   name: github
   repo: StenaldernsSamfallighet/hemsida
   branch: cms-test
-  auth_type: implicit
+  auth_type: pkce
   app_id: Ov23li4c9HzyMqJ3wRc5
 
 media_folder: /static/uploads
