@@ -10,8 +10,16 @@ public_folder: /uploads
 
 collections:
   - name: nyheter
-    label: Nyheter
+    label: Förstasidan
     folder: /content/nyheter
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, type: date }
+      - { label: Body, name: body, widget: richtext }
+      - { label: Pdf fil, name: pdf, widget: file }
+  - name: info
+    label: Om Samfälligheten fliken (där protokollen ligger)
+    folder: /content/info
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Date, name: date, widget: datetime, type: date }
