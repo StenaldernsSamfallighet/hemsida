@@ -1,12 +1,11 @@
 # yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+app_title: Admin Sida stenaldern.com
 
 backend:
   name: github
   repo: StenaldernsSamfallighet/hemsida
   branch: cms-test
   base_url: https://sveltia-cms-auth.weathered-scene-e537.workers.dev
-
-locale: sv
 
 media_folder: /static/uploads
 public_folder: /uploads
