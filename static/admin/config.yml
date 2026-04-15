@@ -2,7 +2,7 @@
 backend:
   name: github
   repo: StenaldernsSamfallighet/hemsida
-  branch: cms-test
+  branch: main
   base_url: https://sveltia-cms-auth.weathered-scene-e537.workers.dev
 
 media_folder: /static/uploads
