@@ -4,4 +4,4 @@ date: 2026-09-04
 pdf: ''
 ---
 
-Vi har inte vädergudarna med oss behöver vi ställa in kräftskivan.
+Då vi inte har vädergudarna med oss behöver vi ställa in kräftskivan.
